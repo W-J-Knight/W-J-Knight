@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @W-J-Knight
 - 👀 I’m interested in python and AI.
 - 🌱 I’m currently learning Python, linux, networking and AI.
+- I'm current enroll at Nucamp for Full Stack Web and Mobile App Developer.
 - 💞️ I’m looking to collaborate on anything on programming.
 - 📫 How to reach me William.Jeffery.Knight@protonmail.com
 
