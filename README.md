@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Indiana
-* 🖥️  See my portfolio at [Github io](http://w-j-knight.github.io/william-knight.github.io/)
+* 🖥️  See my portfolio at [Github io](https://w-j-knight.github.io/portfolio-resume/)
 * 🧠  I'm learning Django, React, Node, and SQL
 
 ### Skills
